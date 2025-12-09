@@ -1,0 +1,152 @@
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Archivo salida: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F_44hz.wav
+approxOutSamples (estimado): 11706298
+Iter 50 - totalWritten=409600
+Iter 100 - totalWritten=819200
+Iter 150 - totalWritten=1228800
+Iter 200 - totalWritten=1638400
+Iter 250 - totalWritten=2048000
+Iter 300 - totalWritten=2457600
+Iter 350 - totalWritten=2867200
+Iter 400 - totalWritten=3276800
+Iter 450 - totalWritten=3686400
+Iter 500 - totalWritten=4096000
+Iter 550 - totalWritten=4505600
+Iter 600 - totalWritten=4915200
+Iter 650 - totalWritten=5324800
+Iter 700 - totalWritten=5734400
+Iter 750 - totalWritten=6144000
+Iter 800 - totalWritten=6553600
+Iter 850 - totalWritten=6963200
+Iter 900 - totalWritten=7372800
+Iter 950 - totalWritten=7782400
+Iter 1000 - totalWritten=8192000
+Iter 1050 - totalWritten=8601600
+Iter 1100 - totalWritten=9011200
+Iter 1150 - totalWritten=9420800
+Iter 1200 - totalWritten=9830400
+Iter 1250 - totalWritten=10240000
+Iter 1300 - totalWritten=10649600
+Iter 1350 - totalWritten=11059200
+Iter 1400 - totalWritten=11468800
+Total frames escritos: 11706368
+==== Conversion finalizada OK ====
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Archivo salida: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F_44hz.wav
+approxOutSamples (estimado): 11706298
+Iter 50 - totalWritten=409600
+Iter 100 - totalWritten=819200
+Iter 150 - totalWritten=1228800
+Iter 200 - totalWritten=1638400
+Iter 250 - totalWritten=2048000
+Iter 300 - totalWritten=2457600
+Iter 350 - totalWritten=2867200
+Iter 400 - totalWritten=3276800
+Iter 450 - totalWritten=3686400
+Iter 500 - totalWritten=4096000
+Iter 550 - totalWritten=4505600
+Iter 600 - totalWritten=4915200
+Iter 650 - totalWritten=5324800
+Iter 700 - totalWritten=5734400
+Iter 750 - totalWritten=6144000
+Iter 800 - totalWritten=6553600
+Iter 850 - totalWritten=6963200
+Iter 900 - totalWritten=7372800
+Iter 950 - totalWritten=7782400
+Iter 1000 - totalWritten=8192000
+Iter 1050 - totalWritten=8601600
+Iter 1100 - totalWritten=9011200
+Iter 1150 - totalWritten=9420800
+Iter 1200 - totalWritten=9830400
+Iter 1250 - totalWritten=10240000
+Iter 1300 - totalWritten=10649600
+Iter 1350 - totalWritten=11059200
+Iter 1400 - totalWritten=11468800
+Total frames escritos: 11706368
+==== Conversion finalizada OK ====
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Archivo salida: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F_44hz.wav
+approxOutSamples (estimado): 11706298
+Iter 50 - totalWritten=409600
+Iter 100 - totalWritten=819200
+Iter 150 - totalWritten=1228800
+Iter 200 - totalWritten=1638400
+Iter 250 - totalWritten=2048000
+Iter 300 - totalWritten=2457600
+Iter 350 - totalWritten=2867200
+Iter 400 - totalWritten=3276800
+Iter 450 - totalWritten=3686400
+Iter 500 - totalWritten=4096000
+Iter 550 - totalWritten=4505600
+Iter 600 - totalWritten=4915200
+Iter 650 - totalWritten=5324800
+Iter 700 - totalWritten=5734400
+Iter 750 - totalWritten=6144000
+Iter 800 - totalWritten=6553600
+Iter 850 - totalWritten=6963200
+Iter 900 - totalWritten=7372800
+Iter 950 - totalWritten=7782400
+Iter 1000 - totalWritten=8192000
+Iter 1050 - totalWritten=8601600
+Iter 1100 - totalWritten=9011200
+Iter 1150 - totalWritten=9420800
+Iter 1200 - totalWritten=9830400
+Iter 1250 - totalWritten=10240000
+Iter 1300 - totalWritten=10649600
+Iter 1350 - totalWritten=11059200
+Iter 1400 - totalWritten=11468800
+Total frames escritos: 11706368
+==== Conversion finalizada OK ====
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Archivo salida: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F_44hz.wav
+approxOutSamples (estimado): 11706298
+Iter 50 - totalWritten=409600
+Iter 100 - totalWritten=819200
+Iter 150 - totalWritten=1228800
+Iter 200 - totalWritten=1638400
+Iter 250 - totalWritten=2048000
+Iter 300 - totalWritten=2457600
+Iter 350 - totalWritten=2867200
+Iter 400 - totalWritten=3276800
+Iter 450 - totalWritten=3686400
+Iter 500 - totalWritten=4096000
+Iter 550 - totalWritten=4505600
+Iter 600 - totalWritten=4915200
+Iter 650 - totalWritten=5324800
+Iter 700 - totalWritten=5734400
+Iter 750 - totalWritten=6144000
+Iter 800 - totalWritten=6553600
+Iter 850 - totalWritten=6963200
+Iter 900 - totalWritten=7372800
+Iter 950 - totalWritten=7782400
+Iter 1000 - totalWritten=8192000
+Iter 1050 - totalWritten=8601600
+Iter 1100 - totalWritten=9011200
+Iter 1150 - totalWritten=9420800
+Iter 1200 - totalWritten=9830400
+Iter 1250 - totalWritten=10240000
+Iter 1300 - totalWritten=10649600
+Iter 1350 - totalWritten=11059200
+Iter 1400 - totalWritten=11468800
+Total frames escritos: 11706368
+==== Conversion finalizada OK ====

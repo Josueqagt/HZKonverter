@@ -1,0 +1,21 @@
+# Carpetas de build / artefactos
+/build/
+/cmake-build-*/
+*/HZInver_artefacts/
+
+# Visual Studio / compilador
+/*.sln
+/*.vcxproj
+*.vcxproj.*
+*.user
+*.pdb
+/.vs/
+
+# VSCode
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

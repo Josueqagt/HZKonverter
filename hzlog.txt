@@ -1,0 +1,121 @@
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F_44hz.wav
+Canales: 2
+SampleRate origen: 44100
+SampleRate destino: 48000
+Samples totales: 11698106
+Canal 0 - outSamples=12732633 - inConsumidos=11698106
+Canal 1 - outSamples=12732633 - inConsumidos=11698106
+Total frames escritos: 12732633
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive - Audio Cream\MUSICA\2026\TuneBoyz\ALBUM\pato tune\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive\Desktop\prueba hz\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive\Desktop\prueba hz\DEMO SIX FOUR 95 BPM F_44hz.wav
+Canales: 2
+SampleRate origen: 44100
+SampleRate destino: 48000
+Samples totales: 11698106
+Canal 0 - outSamples=12732633 - inConsumidos=11698106
+Canal 1 - outSamples=12732633 - inConsumidos=11698106
+Total frames escritos: 12732633
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive\Desktop\prueba hz\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive\Desktop\prueba hz\DEMO SIX FOUR 95 BPM F_44hz.wav
+Canales: 2
+SampleRate origen: 44100
+SampleRate destino: 48000
+Samples totales: 11698106
+Canal 0 - outSamples=12732633 - inConsumidos=11698106
+Canal 1 - outSamples=12732633 - inConsumidos=11698106
+Total frames escritos: 12732633
+==== Conversion finalizada OK ====
+
+==== Iniciando conversion ====
+Archivo: C:\Users\josue\OneDrive\Desktop\prueba hz\DEMO SIX FOUR 95 BPM F.wav
+Canales: 2
+SampleRate origen: 48000
+SampleRate destino: 44100
+Samples totales: 12732632
+Canal 0 - outSamples=11698106 - inConsumidos=12732632
+Canal 1 - outSamples=11698106 - inConsumidos=12732632
+Total frames escritos: 11698106
+==== Conversion finalizada OK ====
+
